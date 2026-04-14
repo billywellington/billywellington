@@ -1,28 +1,85 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)]
-<h1 align="center">Hi 👋, I'm Billy Wellington</h1>
-<h3 align="center"> Computer Science Student </h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<div align="center">
 
+<!-- Typing SVG Header -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C5A1FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Founder+%40+Intellium+Inc.;AI+%2B+Web+%2B+Automation+for+SA+Businesses;Building+digital+tools+that+actually+work." alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=billywellington&label=Profile%20views&color=0e75b6&style=flat" alt="billywellington" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=billywellington" alt="billywellington" /></a> </p>
+**I build websites, AI automation, and digital growth systems for South African small businesses — without the big agency price tag.**
 
-<p align="left"> <a href="https://twitter.com/billierangwani" target="blank"><img src="https://img.shields.io/twitter/follow/billierangwani?logo=twitter&style=for-the-badge" alt="billierangwani" /></a> </p>
+Cape Town, South Africa
 
-- 📫 How to reach me **billierangwani@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/billierangwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="billierangwani" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/billywellington" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="billy-wellington-rangwani" height="30" width="40" /></a>
-</p>
+<!-- Social Links -->
+[![Website](https://img.shields.io/badge/intelliuminc.co.za-0F0611?style=for-the-badge&logo=google-chrome&logoColor=C5A1FF)](https://intelliuminc.co.za)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0611?style=for-the-badge&logo=linkedin&logoColor=C5A1FF)](https://linkedin.com/in/billywellington)
+[![Email](https://img.shields.io/badge/Email-0F0611?style=for-the-badge&logo=gmail&logoColor=C5A1FF)](mailto:billy@intelliuminc.co.za)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=billywellington&show_icons=true&locale=en&layout=compact" alt="billywellington" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=billywellington&show_icons=true&locale=en" alt="billywellington" /></p>
+### What I Build
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=billywellington&" alt="billywellington" /></p>
+- **[Intellium Inc.](https://intelliuminc.co.za)** — Digital agency: websites, AI automation & growth systems for SA SMEs
+- **[Kaira](https://github.com/billywellington/kaira)** — Open-source voice dictation tool (Python + PyQt6 + OpenAI Whisper)
+- **[BetterBasket](https://github.com/billywellington)** — SA grocery price comparison app *(coming soon)*
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0F0611?style=for-the-badge&logo=python&logoColor=C5A1FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F0611?style=for-the-badge&logo=typescript&logoColor=C5A1FF)
+![Next.js](https://img.shields.io/badge/Next.js-0F0611?style=for-the-badge&logo=next.js&logoColor=C5A1FF)
+![Node.js](https://img.shields.io/badge/Node.js-0F0611?style=for-the-badge&logo=node.js&logoColor=C5A1FF)
+![React](https://img.shields.io/badge/React-0F0611?style=for-the-badge&logo=react&logoColor=C5A1FF)
+![n8n](https://img.shields.io/badge/n8n-0F0611?style=for-the-badge&logo=n8n&logoColor=C5A1FF)
+![Claude AI](https://img.shields.io/badge/Claude_AI-0F0611?style=for-the-badge&logo=anthropic&logoColor=C5A1FF)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-0F0611?style=for-the-badge&logo=html5&logoColor=C5A1FF)
+![Git](https://img.shields.io/badge/Git-0F0611?style=for-the-badge&logo=git&logoColor=C5A1FF)
+![Linux](https://img.shields.io/badge/Linux-0F0611?style=for-the-badge&logo=linux&logoColor=C5A1FF)
+
+</div>
+
+---
+
+### Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/billywellington/kaira">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=billywellington&repo=kaira&theme=dark&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
+</a>
+<a href="https://github.com/billywellington/animated-story-video-generator">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=billywellington&repo=animated-story-video-generator&theme=dark&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
+</a>
+
+</div>
+
+---
+
+<details>
+<summary><b>GitHub Stats</b></summary>
+<br/>
+<div align="center">
+
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=billywellington&show_icons=true&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840&hide_border=false" />
+
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=billywellington&background=0F0611&ring=C5A1FF&fire=C5A1FF&currStreakLabel=C5A1FF&sideLabels=C5A1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5A5C8&border=2B1840" />
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billywellington&layout=compact&bg_color=0F0611&title_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
+
+</div>
+</details>
+
+---
+
+<div align="center">
+
+*Powerful digital tools shouldn't cost a fortune. I build them so they don't.*
+
+</div>
