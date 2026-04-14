@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C5A1FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Founder+%40+Intellium+Inc.;AI+%2B+Web+%2B+Automation+for+SA+Businesses;Building+digital+tools+that+actually+work." alt="Typing SVG" /></a>
+<!-- Typing SVG Header — rotates one line at a time -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=C5A1FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Founder+%40+Intellium+Inc.;AI+%2B+Web+%2B+Automation+for+SA+Businesses;Building+digital+tools+that+actually+work." alt="Typing SVG" /></a>
 
-<br/>
+<br/><br/>
 
 **I build websites, AI automation, and digital growth systems for South African small businesses — without the big agency price tag.**
 
@@ -49,16 +49,10 @@ Cape Town, South Africa
 
 ### Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/billywellington/kaira">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=billywellington&repo=kaira&theme=dark&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
-</a>
-<a href="https://github.com/billywellington/animated-story-video-generator">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=billywellington&repo=animated-story-video-generator&theme=dark&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
-</a>
-
-</div>
+| Project | Description |
+|---------|-------------|
+| [**Kaira**](https://github.com/billywellington/kaira) | Free, open-source voice dictation tool. Press a hotkey, speak, text gets pasted. Python + PyQt6 + OpenAI Whisper. |
+| [**Animated Story Video Generator**](https://github.com/billywellington/animated-story-video-generator) | Google Colab notebook that creates animated story videos using Gemini + Imagen + MoviePy. |
 
 ---
 
@@ -67,11 +61,7 @@ Cape Town, South Africa
 <br/>
 <div align="center">
 
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=billywellington&show_icons=true&bg_color=0F0611&title_color=C5A1FF&icon_color=C5A1FF&text_color=FFFFFF&border_color=2B1840&hide_border=false" />
-
 <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=billywellington&background=0F0611&ring=C5A1FF&fire=C5A1FF&currStreakLabel=C5A1FF&sideLabels=C5A1FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A5A5C8&border=2B1840" />
-
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billywellington&layout=compact&bg_color=0F0611&title_color=C5A1FF&text_color=FFFFFF&border_color=2B1840" />
 
 </div>
 </details>
