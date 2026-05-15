@@ -47,14 +47,6 @@ Cape Town, South Africa
 
 ---
 
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Kaira**](https://github.com/billywellington/kaira) | Free, open-source voice dictation tool. Press a hotkey, speak, text gets pasted. Python + PyQt6 + OpenAI Whisper. |
-
----
-
 <details>
 <summary><b>GitHub Stats</b></summary>
 <br/>
