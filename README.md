@@ -52,7 +52,6 @@ Cape Town, South Africa
 | Project | Description |
 |---------|-------------|
 | [**Kaira**](https://github.com/billywellington/kaira) | Free, open-source voice dictation tool. Press a hotkey, speak, text gets pasted. Python + PyQt6 + OpenAI Whisper. |
-| [**Animated Story Video Generator**](https://github.com/billywellington/animated-story-video-generator) | Google Colab notebook that creates animated story videos using Gemini + Imagen + MoviePy. |
 
 ---
 
