@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-**I build websites, AI automation, and digital growth systems for South African small businesses — without the big agency price tag.**
+**I build websites and AI systems for South African small businesses — without the big agency price tag.**
 
 Cape Town, South Africa
 
@@ -23,7 +23,7 @@ Cape Town, South Africa
 ### What I Build
 
 - **[Intellium Inc.](https://intelliuminc.co.za)** — Digital agency: websites, AI automation & growth systems for SA SMEs
-- **[Kaira](https://github.com/billywellington/kaira)** — Open-source voice dictation tool (Python + PyQt6 + OpenAI Whisper)
+- **[Embr Voice](https://github.com/billywellington/kaira)** — Open-source voice dictation tool (Python + PyQt6 + OpenAI Whisper)
 - **[BetterBasket](https://github.com/billywellington)** — SA grocery price comparison app *(coming soon)*
 
 ---
